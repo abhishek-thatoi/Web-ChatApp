@@ -1,0 +1,3 @@
+A user-friendly chat app using HTML, CSS, React.js, and JavaScript.
+Integrated with chatengine.io API for real-time messaging. 
+Features include secure login, user registration, group creation with member management, and read receipts for seen messages.
